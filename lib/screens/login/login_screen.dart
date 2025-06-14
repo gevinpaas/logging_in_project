@@ -1,6 +1,5 @@
 import 'package:flutter/material.dart';
 import 'package:logging_in_project/screens/sing_up/sing_up.dart';
-import 'package:logging_in_project/styles/app_colors.dart';
 import 'package:logging_in_project/styles/app_gradients.dart';
 import 'package:logging_in_project/widgets/gradient_button.dart';
 import 'package:logging_in_project/widgets/gradient_text.dart';
